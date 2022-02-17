@@ -1,0 +1,15 @@
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPalindrome\bin\Debug\net6.0\CSharpPalindrome.exe
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPalindrome\bin\Debug\net6.0\CSharpPalindrome.deps.json
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPalindrome\bin\Debug\net6.0\CSharpPalindrome.runtimeconfig.json
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPalindrome\bin\Debug\net6.0\CSharpPalindrome.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPalindrome\bin\Debug\net6.0\ref\CSharpPalindrome.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPalindrome\bin\Debug\net6.0\CSharpPalindrome.pdb
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPalindrome\obj\Debug\net6.0\CSharpPalindrome.csproj.AssemblyReference.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPalindrome\obj\Debug\net6.0\CSharpPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPalindrome\obj\Debug\net6.0\CSharpPalindrome.AssemblyInfoInputs.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPalindrome\obj\Debug\net6.0\CSharpPalindrome.AssemblyInfo.cs
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPalindrome\obj\Debug\net6.0\CSharpPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPalindrome\obj\Debug\net6.0\CSharpPalindrome.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPalindrome\obj\Debug\net6.0\ref\CSharpPalindrome.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPalindrome\obj\Debug\net6.0\CSharpPalindrome.pdb
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPalindrome\obj\Debug\net6.0\CSharpPalindrome.genruntimeconfig.cache
